@@ -22,10 +22,11 @@ h2 {
 }
 button {
   margin: 30px;
+  padding: 10px;
   font-family: "Lobster", cursive;
   font-size: 3rem;
   color: #e7e4e1;
-  background-color: #a10808;
+  background-color: #000;
   border: 0;
   border-radius: 10px;
   cursor: pointer;
